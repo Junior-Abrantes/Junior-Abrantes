@@ -23,7 +23,7 @@
 ```yaml
 Junior@github:~$ whoami --status
 
-  ┌─ SYSTEM v2.0 ────────────────────────────────────────────┐
+  ┌─ SYSTEM v0.0 ────────────────────────────────────────────┐
   │  status:      ONLINE 🟢                                    │
   │  role:        Front-end Developer + CRO                   │
   │  focus:       Taxa de Conversão • Testes A/B • UX data      │

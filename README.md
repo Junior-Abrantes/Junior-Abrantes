@@ -26,11 +26,11 @@ Junior@github:~$ whoami --status
   ┌─ SYSTEM v2.0 ────────────────────────────────────────────┐
   │  status:      ONLINE 🟢                                   │
   │  role:        Front-end Developer + CRO                   │
-  │  focus:       taxa de conversão • testes A/B • UX data     │
+  │  focus:       Taxa de Conversão • Testes A/B • UX data     │
   │  location:    Ceará, Brasil 🇧🇷                            │
-  │  método:      hipótese → experimento → dado → decisão      │
-  │  mindset:     "Dados, hipótese e teste é o que decide."        │
-  │  meta:        cada 0,1% de conversão importa 📈            │
+  │  método:      Hipótese → Experimento → Dado → Decisão      │
+  │       "Dados, Hipótese e Teste é o que Decide."        │
+  │          Cada 0,1% de Conversão Importa 📈            │
   └──────────────────────────────────────────────────────────┘
 ```
 

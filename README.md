@@ -29,7 +29,7 @@ Junior@github:~$ whoami --status
   │  focus:       taxa de conversão • testes A/B • UX data     │
   │  location:    Ceará, Brasil 🇧🇷                            │
   │  método:      hipótese → experimento → dado → decisão      │
-  │  mindset:     "não é opinião, é o teste que decide"        │
+  │  mindset:     "Dados, hipótese e teste é o que decide."        │
   │  meta:        cada 0,1% de conversão importa 📈            │
   └──────────────────────────────────────────────────────────┘
 ```

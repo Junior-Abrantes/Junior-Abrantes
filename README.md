@@ -29,7 +29,7 @@
 <br/>
 
 <!-- ===================== SOBRE MIM ===================== -->
-<h2 align="center">◆ &nbsp; SOBRE MIM &nbsp; ◆</h2>
+<h2 align="center">𓂃✍︎ &nbsp; SOBRE MIM &nbsp; 𓂃✍︎</h2>
 
 <hr/>
 
@@ -55,7 +55,7 @@ Estudante de **Engenharia de Software**, na **IDK Brasil** desenvolvi componente
 <br/>
 
 <!-- ===================== PROJETOS ===================== -->
-<h2 align="center">◆ &nbsp; TOP PROJETOS &nbsp; ◆</h2>
+<h2 align="center">𓂃✍︎ &nbsp; TOP PROJETOS &nbsp; 𓂃✍︎</h2>
 
 <hr/>
 
@@ -86,7 +86,7 @@ Estudante de **Engenharia de Software**, na **IDK Brasil** desenvolvi componente
 <br/>
 
 <!-- ===================== STACK ===================== -->
-<h2 align="center">◆ &nbsp; STACK &nbsp; ◆</h2>
+<h2 align="center">𓂃✍︎ &nbsp; STACK &nbsp; 𓂃✍︎</h2>
 
 <hr/>
 
@@ -111,7 +111,7 @@ Estudante de **Engenharia de Software**, na **IDK Brasil** desenvolvi componente
 <br/>
 
 <!-- ===================== CONECTE-SE ===================== -->
-<h2 align="center">◆ &nbsp; CONECTE-SE &nbsp; ◆</h2>
+<h2 align="center">𓂃✍︎ &nbsp; CONECTE-SE &nbsp; 𓂃✍︎</h2>
 
 <hr/>
 
@@ -148,7 +148,7 @@ Estudante de **Engenharia de Software**, na **IDK Brasil** desenvolvi componente
 <br/>
 
 <!-- ===================== CONTRIBUIÇÕES ===================== -->
-<h2 align="center">◆ &nbsp; CONTRIBUIÇÕES &nbsp; ◆</h2>
+<h2 align="center">𓂃✍︎ &nbsp; CONTRIBUIÇÕES &nbsp; 𓂃✍︎</h2>
 
 <hr/>
 
@@ -166,5 +166,5 @@ Estudante de **Engenharia de Software**, na **IDK Brasil** desenvolvi componente
 <br/>
 
 <div align="center">
-<sub>◆ &nbsp; <b>Branch out. Merge greatness.</b> &nbsp; ◆</sub>
+<sub>𓂃✍︎ &nbsp; <b>Branch out. Merge greatness.</b> &nbsp; 𓂃✍︎</sub>
 </div>

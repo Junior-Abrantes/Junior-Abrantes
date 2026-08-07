@@ -10,7 +10,7 @@
 <!-- ===================== BANNER ===================== -->
 <div align="center">
 
-<img width="100%" src="assets/banner.jpg" alt="Lourival Abrantes"/>
+<img width="100%" src="assets/banner.svg" alt="Lourival Abrantes"/>
 
 <br/><br/>
 

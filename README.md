@@ -42,9 +42,9 @@
 
 **E aí! Eu sou o Junior 👋**
 
-Analista de Mídia e **dev front-end** movido a café e obcecado por **taxa de conversão**. De dia interpreto dados (CTR, CPC, CPA, ROAS) e planejo campanhas; de noite escrevo componentes que fazem e-commerce vender mais.
+Analista de Mídia e **dev front-end** movido a curiosidade e obcecado por **taxa de conversão**. De dia interpreto dados (CTR, CPC, CPA, ROAS) e planejo campanhas; de noite escrevo componentes que fazem e-commerce vender mais.
 
-Estudante de **Engenharia de Software**, atuo na **IDK Brasil** desenvolvendo componentes de CRO para grandes lojas. Antes disso, escalei **2 perfis do zero a 1 milhão de seguidores** — então eu sei o que faz o número subir.
+Estudante de **Engenharia de Software**, na **IDK Brasil** desenvolvi componentes de CRO para grandes lojas. Antes disso, escalei **2 perfis do zero a 1 milhão de seguidores** — então eu sei o que faz o número subir.
 
 > *Não é opinião, é o teste que decide.*
 

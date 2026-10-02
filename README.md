@@ -5,7 +5,7 @@
 -->
 
 <a href="https://portfolio.cattleyatech.shop">
-  <img width="100%" src="assets/header.svg" alt="Junior Abrantes · Código que converte, dado que fecha. Desenvolvedor front-end de e-commerce, CRO e tracking."/>
+  <img width="100%" src="assets/hero.svg" alt="Junior Abrantes · Código que converte, dado que fecha. Desenvolvedor front-end de e-commerce, CRO e tracking."/>
 </a>
 
 <p align="center">
@@ -31,9 +31,9 @@ Construo componentes de conversão para e-commerce, testes A/B com grupo de cont
 <br/>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/stats-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="assets/stats-light.svg">
-  <img width="100%" src="assets/stats-dark.svg" alt="14 componentes de CRO em produção · 9 marcas atendidas · 1,09 milhão de profissionais indexados no Achou · 169 testes automatizados no WORKIN">
+  <source media="(prefers-color-scheme: dark)" srcset="assets/numeros-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="assets/numeros-light.svg">
+  <img width="100%" src="assets/numeros-dark.svg" alt="14 componentes de CRO em produção · 9 marcas atendidas · 1,09 milhão de profissionais indexados no Achou · 169 testes automatizados no WORKIN">
 </picture>
 
 <br/><br/>

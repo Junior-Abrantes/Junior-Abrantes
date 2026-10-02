@@ -1,170 +1,154 @@
 <!--
-==================================================================
-  README DE PERFIL — Lourival "Junior" Abrantes (@Junior-Abrantes)
-  Estilo: minimalista dark, preto & branco (inspirado no "Synax!")
-  ⚠️  IMPORTANTE: suba a pasta /assets junto (banner.png, brain.png,
-      eclipse-bw.png) — o README aponta pra ela por caminho relativo.
-==================================================================
+  README de perfil · Lourival "Junior" Abrantes (@Junior-Abrantes)
+  Visual monocromático, igual ao portfólio: portfolio.cattleyatech.shop
+  As imagens ficam em /assets (SVG animado, funciona no tema claro e escuro do GitHub).
 -->
 
-<!-- ===================== BANNER ===================== -->
-<div align="center">
+<a href="https://portfolio.cattleyatech.shop">
+  <img width="100%" src="assets/header.svg" alt="Junior Abrantes · Código que converte, dado que fecha. Desenvolvedor front-end de e-commerce, CRO e tracking."/>
+</a>
 
-<img width="100%" src="assets/banner.png" alt="Lourival Abrantes"/>
+<p align="center">
+  <a href="https://portfolio.cattleyatech.shop"><b>Portfólio</b></a>
+  &nbsp;·&nbsp;
+  <a href="https://portfolio.cattleyatech.shop/midia">Mídia e tráfego</a>
+  &nbsp;·&nbsp;
+  <a href="https://portfolio.cattleyatech.shop/social">Social media</a>
+  &nbsp;·&nbsp;
+  <a href="https://www.linkedin.com/in/lourivalabrantes/">LinkedIn</a>
+  &nbsp;·&nbsp;
+  <a href="mailto:juniorabrt@gmail.com">juniorabrt@gmail.com</a>
+</p>
+
+<br/>
+
+### Sobre
+
+Comecei no código, passei pela mídia paga e pelo web analytics e voltei para o desenvolvimento. Por isso sei o que acontece com o dado depois do deploy.
+
+Construo componentes de conversão para e-commerce, testes A/B com grupo de controle de verdade e aplicações completas em React e TypeScript, e instrumento tudo com GA4, GTM e BigQuery. Estudo Engenharia de Software na Ampli e moro em Fortaleza, CE.
+
+<br/>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/stats-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="assets/stats-light.svg">
+  <img width="100%" src="assets/stats-dark.svg" alt="14 componentes de CRO em produção · 9 marcas atendidas · 1,09 milhão de profissionais indexados no Achou · 169 testes automatizados no WORKIN">
+</picture>
 
 <br/><br/>
 
-<!-- texto digitando (branco, discreto) -->
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=20&pause=1000&color=FFFFFF&center=true&vCenter=true&width=620&height=40&lines=Dev+Front-end+%2B+CRO;Meta+Ads+%E2%80%A2+Google+Ads+%E2%80%A2+GA4;do+dado+%C3%A0+convers%C3%A3o+%E2%80%94+cada+0%2C1%25+importa" alt="typing"/>
-
-<br/>
-
-<!-- pills preto & branco -->
-<img src="https://img.shields.io/github/followers/Junior-Abrantes?label=SEGUIDORES&style=for-the-badge&labelColor=000000&color=161b22&logo=github&logoColor=white"/>
-<img src="https://komarev.com/ghpvc/?username=Junior-Abrantes&label=VISITAS&color=161b22&style=for-the-badge"/>
-<img src="https://img.shields.io/badge/FORTALEZA%20%E2%80%94%20CE-000000?style=for-the-badge&logoColor=white"/>
-
-</div>
-
-<br/>
-
-<!-- ===================== SOBRE MIM ===================== -->
-<h2 align="center">𓂃✍︎ &nbsp; SOBRE MIM &nbsp; 𓂃✍︎</h2>
-
-<hr/>
+### Projetos em destaque
 
 <table>
 <tr>
-<td width="34%" align="center">
-  <img src="assets/brain.png" width="230" alt="brain"/>
+<td width="50%" valign="top">
+
+**[Achou](https://achou.cattleyatech.shop)** &nbsp;<sub>saúde pública</sub>
+
+Diz quais clínicas perto de você aceitam o seu convênio e têm a especialidade que você precisa, cruzando as bases públicas da ANS e do CNES.
+
+<sub>`JavaScript` `PostgreSQL` `Supabase` `Python`</sub>
+
 </td>
-<td width="66%" valign="middle">
+<td width="50%" valign="top">
 
-**E aí! Eu sou o Junior 👋**
+**[StudyOS](https://app.cattleyatech.shop)** &nbsp;<sub>educação</sub>
 
-Analista de Mídia e **dev front-end** movido a curiosidade e obcecado por **taxa de conversão**. De dia interpreto dados (CTR, CPC, CPA, ROAS) e planejo campanhas; de noite escrevo componentes que fazem e-commerce vender mais.
+Plataforma de estudos para vestibular e concursos: simulados, flashcards, cronograma e explicações com IA.
 
-Estudante de **Engenharia de Software**, na **IDK Brasil** desenvolvi componentes de CRO para grandes lojas. Antes disso, escalei **2 perfis do zero a 1 milhão de seguidores** — então eu sei o que faz o número subir.
+<sub>`React` `TypeScript` `Supabase` `TanStack Query` `Playwright`</sub>
 
-> *Não é opinião, é o teste que decide.*
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+**WORKIN** &nbsp;<sub>food service · em desenvolvimento</sub>
+
+Sistema para restaurante e barraca de praia que funciona sem internet e sincroniza quando a conexão volta. 169 testes automatizados.
+
+<sub>`TypeScript` `React` `Hono` `Cloudflare Workers` `Vitest`</sub>
+
+</td>
+<td width="50%" valign="top">
+
+**[Food Health](https://food.cattleyatech.shop)** &nbsp;<sub>alimentação</sub>
+
+Cardápio da semana, lista de compras e custo estimado, montados por regra e não por IA, para a conta ser auditável.
+
+<sub>`Next.js` `TypeScript` `Supabase` `Turborepo`</sub>
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+**[Cimu](https://cimu-five.vercel.app)** &nbsp;<sub>simulador do ENEM</sub>
+
+Mede não só o acerto, mas o comportamento na prova: tempo por questão, voltas e consistência. Gráficos feitos sem biblioteca.
+
+<sub>`JavaScript` `PWA` `HTML5` `CSS3`</sub>
+
+</td>
+<td width="50%" valign="top">
+
+**[Cattleya](https://cattleyatech.shop)** &nbsp;<sub>site e produtos</sub>
+
+Site institucional, landing pages por assinatura e um painel de Meta Ads que confere se os números batem com a plataforma.
+
+<sub>`React` `TypeScript` `Express` `Prisma` `Mercado Pago`</sub>
 
 </td>
 </tr>
 </table>
 
-<br/>
-
-<!-- ===================== PROJETOS ===================== -->
-<h2 align="center">𓂃✍︎ &nbsp; TOP PROJETOS &nbsp; 𓂃✍︎</h2>
-
-<hr/>
-
-<table>
-<tr>
-<td width="70%" valign="top">
-
-**`🍽 CATTLEYA FOOD`** &nbsp;→&nbsp; Plataforma web de pedidos pra restaurante premium. UX + automação orientada à conversão.
-`TypeScript` · `Apps Script` · `Vercel` — [🔗 ao vivo](https://cattleya-food.vercel.app)
+**Na agência IDK Brasil:** 14 componentes de conversão em produção nas lojas Victor Hugo e Novvo (frete grátis em tempo real, carrinho abandonado, recomendação e outros), uma camada de testes A/B com grupo de controle, tracking unificado no GA4 e e-mails HTML para Smart Fit, Midway e Riachuelo. Os detalhes estão no [portfólio](https://portfolio.cattleyatech.shop/#projetos).
 
 <br/>
 
-**`🩺 CONSULTORIA LUANA`** &nbsp;→&nbsp; Site institucional pra consultoria de medicina. Captação de leads e presença digital.
-`TypeScript` · `CSS3` · `Vercel` — [🔗 ao vivo](https://consultoria-luana.vercel.app)
+### Stack
+
+<p>
+<img src="https://img.shields.io/badge/TypeScript-0a0a0a?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript"/>
+<img src="https://img.shields.io/badge/JavaScript-0a0a0a?style=flat-square&logo=javascript&logoColor=white" alt="JavaScript"/>
+<img src="https://img.shields.io/badge/React-0a0a0a?style=flat-square&logo=react&logoColor=white" alt="React"/>
+<img src="https://img.shields.io/badge/Next.js-0a0a0a?style=flat-square&logo=nextdotjs&logoColor=white" alt="Next.js"/>
+<img src="https://img.shields.io/badge/Vite-0a0a0a?style=flat-square&logo=vite&logoColor=white" alt="Vite"/>
+<img src="https://img.shields.io/badge/Tailwind-0a0a0a?style=flat-square&logo=tailwindcss&logoColor=white" alt="Tailwind CSS"/>
+<img src="https://img.shields.io/badge/HTML5-0a0a0a?style=flat-square&logo=html5&logoColor=white" alt="HTML5"/>
+<img src="https://img.shields.io/badge/CSS3-0a0a0a?style=flat-square&logo=css3&logoColor=white" alt="CSS3"/>
+</p>
+<p>
+<img src="https://img.shields.io/badge/Node.js-0a0a0a?style=flat-square&logo=nodedotjs&logoColor=white" alt="Node.js"/>
+<img src="https://img.shields.io/badge/PostgreSQL-0a0a0a?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
+<img src="https://img.shields.io/badge/Supabase-0a0a0a?style=flat-square&logo=supabase&logoColor=white" alt="Supabase"/>
+<img src="https://img.shields.io/badge/Playwright-0a0a0a?style=flat-square&logo=playwright&logoColor=white" alt="Playwright"/>
+<img src="https://img.shields.io/badge/Vitest-0a0a0a?style=flat-square&logo=vitest&logoColor=white" alt="Vitest"/>
+<img src="https://img.shields.io/badge/Vercel-0a0a0a?style=flat-square&logo=vercel&logoColor=white" alt="Vercel"/>
+<img src="https://img.shields.io/badge/Git-0a0a0a?style=flat-square&logo=git&logoColor=white" alt="Git"/>
+</p>
+<p>
+<img src="https://img.shields.io/badge/GA4-0a0a0a?style=flat-square&logo=googleanalytics&logoColor=white" alt="Google Analytics 4"/>
+<img src="https://img.shields.io/badge/Tag%20Manager-0a0a0a?style=flat-square&logo=googletagmanager&logoColor=white" alt="Google Tag Manager"/>
+<img src="https://img.shields.io/badge/BigQuery-0a0a0a?style=flat-square&logo=googlebigquery&logoColor=white" alt="BigQuery"/>
+<img src="https://img.shields.io/badge/Shopify-0a0a0a?style=flat-square&logo=shopify&logoColor=white" alt="Shopify"/>
+<img src="https://img.shields.io/badge/Meta%20Ads-0a0a0a?style=flat-square&logo=meta&logoColor=white" alt="Meta Ads"/>
+<img src="https://img.shields.io/badge/Google%20Ads-0a0a0a?style=flat-square&logo=googleads&logoColor=white" alt="Google Ads"/>
+</p>
 
 <br/>
 
-**`🛒 CRO COMPONENTS · IDK/CELL`** &nbsp;→&nbsp; Barra de frete grátis, progressão de carrinho, page-takeover e mais — injetados via GCD/CELL em e-commerces.
-`JS (ES5/IIFE)` · `GA4 dataLayer` · `GTM` · `Nuvemshop` · `Shopify`
+### Contato
 
-</td>
-<td width="30%" align="center" valign="middle">
-  <img src="assets/eclipse-bw.png" width="200" alt="eclipse"/>
-</td>
-</tr>
-</table>
-
-<br/>
-
-<!-- ===================== STACK ===================== -->
-<h2 align="center">𓂃✍︎ &nbsp; STACK &nbsp; 𓂃✍︎</h2>
-
-<hr/>
-
-<div align="center">
-
-<img src="https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=white"/>
-<img src="https://img.shields.io/badge/TypeScript-000000?style=for-the-badge&logo=typescript&logoColor=white"/>
-<img src="https://img.shields.io/badge/HTML5-000000?style=for-the-badge&logo=html5&logoColor=white"/>
-<img src="https://img.shields.io/badge/CSS3-000000?style=for-the-badge&logo=css3&logoColor=white"/>
-<img src="https://img.shields.io/badge/React-000000?style=for-the-badge&logo=react&logoColor=white"/>
-<img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white"/>
-<br/>
-<img src="https://img.shields.io/badge/Meta%20Ads-000000?style=for-the-badge&logo=meta&logoColor=white"/>
-<img src="https://img.shields.io/badge/Google%20Ads-000000?style=for-the-badge&logo=googleads&logoColor=white"/>
-<img src="https://img.shields.io/badge/Google%20Analytics-000000?style=for-the-badge&logo=googleanalytics&logoColor=white"/>
-<img src="https://img.shields.io/badge/Tag%20Manager-000000?style=for-the-badge&logo=googletagmanager&logoColor=white"/>
-<img src="https://img.shields.io/badge/Figma-000000?style=for-the-badge&logo=figma&logoColor=white"/>
-<img src="https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git&logoColor=white"/>
-
-</div>
+<p>
+<a href="https://portfolio.cattleyatech.shop"><img src="https://img.shields.io/badge/Portf%C3%B3lio-0a0a0a?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfólio"/></a>
+<a href="https://www.linkedin.com/in/lourivalabrantes/"><img src="https://img.shields.io/badge/LinkedIn-0a0a0a?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0id2hpdGUiPjxwYXRoIGQ9Ik0yMC40NDcgMjAuNDUyaC0zLjU1NHYtNS41NjljMC0xLjMyOC0uMDI3LTMuMDM3LTEuODUyLTMuMDM3LTEuODUzIDAtMi4xMzYgMS40NDUtMi4xMzYgMi45Mzl2NS42NjdIOS4zNTFWOWgzLjQxNHYxLjU2MWguMDQ2Yy40NzctLjkgMS42MzctMS44NSAzLjM3LTEuODUgMy42MDEgMCA0LjI2NyAyLjM3IDQuMjY3IDUuNDU1djYuMjg2ek01LjMzNyA3LjQzM2EyLjA2MiAyLjA2MiAwIDAxLTIuMDYzLTIuMDY1IDIuMDY0IDIuMDY0IDAgMTEyLjA2MyAyLjA2NXptMS43ODIgMTMuMDE5SDMuNTU1VjloMy41NjR2MTEuNDUyek0yMi4yMjUgMEgxLjc3MUMuNzkyIDAgMCAuNzc0IDAgMS43Mjl2MjAuNTQyQzAgMjMuMjI3Ljc5MiAyNCAxLjc3MSAyNGgyMC40NTFDMjMuMiAyNCAyNCAyMy4yMjcgMjQgMjIuMjcxVjEuNzI5QzI0IC43NzQgMjMuMiAwIDIyLjIyNSAweiIvPjwvc3ZnPg==&logoColor=white" alt="LinkedIn"/></a>
+<a href="https://wa.me/5588981195074"><img src="https://img.shields.io/badge/WhatsApp-0a0a0a?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp"/></a>
+<a href="mailto:juniorabrt@gmail.com"><img src="https://img.shields.io/badge/E--mail-0a0a0a?style=for-the-badge&logo=gmail&logoColor=white" alt="E-mail"/></a>
+<a href="https://www.instagram.com/junior.abrantesabrt"><img src="https://img.shields.io/badge/Instagram-0a0a0a?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/></a>
+</p>
 
 <br/>
 
-<!-- ===================== CONECTE-SE ===================== -->
-<h2 align="center">𓂃✍︎ &nbsp; CONECTE-SE &nbsp; 𓂃✍︎</h2>
-
-<hr/>
-
-<div align="center">
-
-<a href="https://github.com/Junior-Abrantes" target="_blank">
-  <img src="https://img.shields.io/badge/GITHUB-000000?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-<a href="https://www.linkedin.com/in/lourivalabrantes" target="_blank">
-  <img src="https://img.shields.io/badge/LINKEDIN-000000?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0id2hpdGUiPjxwYXRoIGQ9Ik0yMC40NDcgMjAuNDUyaC0zLjU1NHYtNS41NjljMC0xLjMyOC0uMDI3LTMuMDM3LTEuODUyLTMuMDM3LTEuODUzIDAtMi4xMzYgMS40NDUtMi4xMzYgMi45Mzl2NS42NjdIOS4zNTFWOWgzLjQxNHYxLjU2MWguMDQ2Yy40NzctLjkgMS42MzctMS44NSAzLjM3LTEuODUgMy42MDEgMCA0LjI2NyAyLjM3IDQuMjY3IDUuNDU1djYuMjg2ek01LjMzNyA3LjQzM2EyLjA2MiAyLjA2MiAwIDAxLTIuMDYzLTIuMDY1IDIuMDY0IDIuMDY0IDAgMTEyLjA2MyAyLjA2NXptMS43ODIgMTMuMDE5SDMuNTU1VjloMy41NjR2MTEuNDUyek0yMi4yMjUgMEgxLjc3MUMuNzkyIDAgMCAuNzc0IDAgMS43Mjl2MjAuNTQyQzAgMjMuMjI3Ljc5MiAyNCAxLjc3MSAyNGgyMC40NTFDMjMuMiAyNCAyNCAyMy4yMjcgMjQgMjIuMjcxVjEuNzI5QzI0IC43NzQgMjMuMiAwIDIyLjIyNSAweiIvPjwvc3ZnPg==&logoColor=white"/>
-</a>
-<a href="https://www.instagram.com/junior.abrantesabrt" target="_blank">
-  <img src="https://img.shields.io/badge/INSTAGRAM-000000?style=for-the-badge&logo=instagram&logoColor=white"/>
-</a>
-<a href="https://wa.me/5588981195074" target="_blank">
-  <img src="https://img.shields.io/badge/WHATSAPP-000000?style=for-the-badge&logo=whatsapp&logoColor=white"/>
-</a>
-<a href="mailto:juniorabrt@gmail.com">
-  <img src="https://img.shields.io/badge/GMAIL-000000?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-</div>
-
-<br/>
-
-<blockquote>
-<i>Código nunca fica pronto — só fica um pouco menos terrível com o tempo.</i>
-</blockquote>
-
-<blockquote>
-<i>Cada commit é um pequeno acordo com o meu eu do futuro. Um dia volto nesse código, olho o que escrevi e agradeço (ou não).</i>
-</blockquote>
-
-<br/>
-
-<!-- ===================== CONTRIBUIÇÕES ===================== -->
-<h2 align="center">𓂃✍︎ &nbsp; CONTRIBUIÇÕES &nbsp; 𓂃✍︎</h2>
-
-<hr/>
-
-<div align="center">
-
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=Junior-Abrantes&show_icons=true&hide_border=true&title_color=ffffff&icon_color=ffffff&text_color=c9d1d9&bg_color=0d1117"/>
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Junior-Abrantes&layout=compact&hide_border=true&title_color=ffffff&text_color=c9d1d9&bg_color=0d1117"/>
-
-<br/><br/>
-
-<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=Junior-Abrantes&bg_color=0d1117&color=ffffff&line=ffffff&point=ffffff&area=true&area_color=444444&hide_border=true&title_color=ffffff"/>
-
-</div>
-
-<br/>
-
-<div align="center">
-<sub>𓂃✍︎ &nbsp; <b>Branch out. Merge greatness.</b> &nbsp; 𓂃✍︎</sub>
-</div>
+<sub><i>Código nunca fica pronto, só fica um pouco menos terrível com o tempo.</i></sub>
